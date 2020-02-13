@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name": "Bread",
+        "cost": 15,
+        "calories": 100,
+        "weight":200
+    },
+    {
+        "id":2,
+        "name": "Cheese",
+        "cost": 20,
+        "calories": 100,
+        "weight":200
+    },
+    {
+        "id":3,
+        "name": "Soda",
+        "cost": 10,
+        "calories": 100,
+        "weight":200
+    },
+    {
+        "id":4,
+        "name": "Panner",
+        "cost": 30,
+        "calories": 300,
+        "weight":100
+    },
+    {
+        "id":5,
+        "name": "Soya Chunks",
+        "cost": 35,
+        "calories": 170,
+        "weight":410
+    }
+]

@@ -1,13 +1,22 @@
-body {
+html,body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding: 20px;
+  overflow-y: auto;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.grocery-bg {
+  background-color: rgb(158, 154, 154);
+  padding: 10px;
 }
+
+.shopping-bag-bg {
+  background-color: #a7b7a7;
+  padding: 10px;
+}
+.stats-bg {
+  background-color: #ecddc0;
+  padding: 10px;
+}
+
