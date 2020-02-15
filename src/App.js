@@ -11,7 +11,7 @@ function App() {
       <div className="jumbotron text-center">
         <div className="container">
           <h2 className="display-4">Grocery Shop</h2>
-          <p className="lead">This is a simple grocery shop app, where you can buy your daily products.</p>
+          <p className="lead">This is a simple grocery shop app, where you can buy your daily products!!!</p>
         </div>
       </div>
 
